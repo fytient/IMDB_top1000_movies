@@ -1,7 +1,6 @@
 # IMDb Web Scraping Project
 
-Welcome to the second article of my web scraping guide. In the first article, I demonstrated how to find, extract, and clean data from a single web page on IMDb. In this article, I'll delve into scraping multiple web pages – a list containing 20 pages and a total of 1,000 movies – using a Python web scraper.
-
+This project delves into the extraction of data from multiple web pages, with a primary focus on IMDb's Top 1,000 movies spread across 20 pages. This achievement is facilitated through the implementation of a robust Python-based web scraper.
 
 ## Overview
 
