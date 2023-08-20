@@ -22,9 +22,19 @@ Welcome to the second article of my web scraping guide. In the first article, I 
    Introduce sleep periods to control the crawl rate.
 
 **Extract and Append Data:**
-   Loop through each movie container.
-  - Extract the following attributes:
-   Movie Name
+   
+  - Movie Name
+  - Year
+  - RunTime
+  - Rating
+  - Metascore
+  - Votes
+  - Gross
+  - Genre
+  - Certificate
+  - Star
+  - Description
+   
    Append extracted data to respective lists.
 
  **Create a DataFrame:**
